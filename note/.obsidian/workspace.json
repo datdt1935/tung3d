@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "8881f7a836127086",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6a8db4a91dfd741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6803f5ffca4b861a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Game/Document.canvas",
+                "viewState": {
+                  "x": -572.5,
+                  "y": -7050,
+                  "zoom": -3.8466936164330585
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Document"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13a4b15c5461a5e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "966884de18abcf0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ab4f1a7f3ebaa32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "db4e7b09ad8291f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "785fd03b61cbf29a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "5ffc34a2cd9fcd9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "525829603efd1613",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "802c3660d083ddaa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI Promp/Template/React.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for React"
+            }
+          },
+          {
+            "id": "31939d26f9ba0606",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Game/Sample game.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sample game"
+            }
+          },
+          {
+            "id": "540fb5b16143dd37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f2f94584ad9a366d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ddab58a5fde2710d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Game/Document.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Document"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6803f5ffca4b861a",
+  "lastOpenFiles": [
+    "Game/Promp AI gen.md",
+    "Game/Document.canvas",
+    "Game/Document.assets/ai/2026-04-08_21-24-56-gemini-imagen-4-0-fast-generate-001-d-a-v-o-2-nh-h-y-t-ch-l-y-chi-c-m-c-a-phi-h-nh-g.png",
+    "ChatGPT Image Apr 23, 2026, 03_27_46 PM.png",
+    "Sticker/Capybara.canvas",
+    "Work/Proposal ttes.md",
+    "Sticker/Pasted image 20260417174155.png",
+    "Pasted image 20260419155842.png",
+    "Pasted image 20260417174235.png",
+    "Pasted image 20260417094441.png",
+    "Pasted image 20260417094243.png",
+    "Sticker/Capybara.assets/ai/2026-04-20_05-01-32-gemini-imagen-4-0-fast-generate-001-v-l-i-nh-n-v-t-v-i-bi-u-c-m-t-c-gi-n-mu-n-ngh-vi.png",
+    "Sticker/Capybara.assets/ai",
+    "Sticker/Capybara.assets",
+    "Work/Untitled.canvas",
+    "Pasted image 20260419214448.png",
+    "Pasted image 20260419214438.png",
+    "Sticker",
+    "AI Promp/Untitled.md",
+    "2026-04-04.md",
+    "Work/Untitled.base",
+    "Chats/New Chat.md",
+    "Untitled.base",
+    "AI Promp/Best-practices/state_management_go_type_script_entity_normalization.md",
+    "AI Promp/Template/React.md",
+    "Game/Document.assets/ai",
+    "Game/Document.assets",
+    "Game/image",
+    "Work",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Miscellaneous/GIT.md",
+    "Chats/Supporting Vietnamese Language Learners with Git and Redux.md",
+    "Chats",
+    "Welcome.md"
+  ]
+}

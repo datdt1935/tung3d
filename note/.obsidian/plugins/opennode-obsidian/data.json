@@ -1,0 +1,40 @@
+{
+  "provider": "gemini",
+  "openaiApiKey": "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",
+  "openaiModel": "gpt-image-1",
+  "geminiApiKey": "AIzaSyBuhZheOq1BdjNyROQE9ktFSwr0xthXlaA",
+  "geminiModel": "imagen-4.0-fast-generate-001",
+  "geminiBrowserAccounts": [
+    {
+      "id": "d36006f9-b8a0-43b3-bfc9-654311fc919a",
+      "label": "PlustAccount",
+      "createdAt": "2026-04-12T16:45:19.884Z",
+      "lastUsedAt": "2026-04-15T01:58:50.288Z"
+    },
+    {
+      "id": "6e7e11b5-3790-49c7-bc78-66155ca134c3",
+      "label": "datdt19",
+      "createdAt": "2026-04-12T16:46:35.080Z",
+      "lastUsedAt": "2026-04-20T05:00:29.680Z"
+    },
+    {
+      "id": "bd72cc0c-29cc-4473-b812-7f98d7f636de",
+      "label": "cocooked",
+      "createdAt": "2026-04-12T16:47:30.668Z",
+      "lastUsedAt": "2026-04-13T02:54:11.343Z"
+    }
+  ],
+  "geminiAccounts": [
+    {
+      "id": "36a41469-5229-49a3-a7dc-17f077052339",
+      "email": "",
+      "createdAt": "2026-04-12T15:24:34.952Z"
+    }
+  ],
+  "geminiCanvasAssignments": {
+    "Game/Document.canvas": "b386bc90-c542-4f0e-85e1-783d719b6646"
+  },
+  "geminiConcurrentBrowsers": 5,
+  "openaiSize": "1024x1024",
+  "geminiAspectRatio": "1:1"
+}

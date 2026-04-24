@@ -1,0 +1,10 @@
+{
+  "id": "opennode-obsidian",
+  "name": "OpenNode",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Generate AI images directly into Obsidian Canvas using OpenAI or Gemini.",
+  "author": "OpenCode",
+  "authorUrl": "https://openai.com",
+  "isDesktopOnly": false
+}
